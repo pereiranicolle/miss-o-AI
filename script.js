@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Agora imagine que esa IA pode ser usada em escolas,empregos e até no governo tomando decisões com base em dados. Você confiaria que ela tomasse decisõs importantes no seu lugar?",
+        enunciado: "Agora imagine que essa IA pode ser usadas em escolas,empregos e até no governo tomando decisões com base em dados. Você confiaria que ela tomasse decisõs importantes no seu lugar?",
         alternativas: [
             {
                 texto: "Sim, porque ela é lógica e rápida",
@@ -32,24 +32,24 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Você se preocupa com os avanços da IA e seu impacto no futuro do trabalho??",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Sim, a IA pode substituir muitos empregos, especialmente os que são repetitivos e baseados em dados..",
+                afirmacao: "Você está preocupado que a IA substitua grande parte da força de trabalho humana, especialmente nas áreas de produção e serviços."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Não, a IA criará novas oportunidades de trabalho e melhorará a produtividade.",
+                afirmacao: "Você acredita que a IA não vai destruir empregos, mas transformará as funções e criará novas oportunidades em áreas emergentes.."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Você acredita que a inteligência artificial pode ultrapassar a inteligência humana no futuro?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Sim, a IA tem o potencial de se tornar mais inteligente do que os humanos em várias áreas.",
+                afirmacao: "Você acredita que a IA, com o avanço da tecnologia, pode superar as capacidades cognitivas humanas, especialmente em tarefas específicas."
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
@@ -58,15 +58,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: " grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "A IA pode ser uma ferramenta útil para melhorar a segurança e otimizar decisões em diversas áreas.",
+                afirmacao: "Você acredita que o uso de IA para monitoramento pode ajudar a melhorar a segurança pública, saúde e até a eficiência do trabalho."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "O monitoramento por IA pode ser uma violação da privacidade e levar ao controle excessivo das pessoas.",
+                afirmacao: "Você está preocupado com os riscos de privacidade e controle que a IA pode trazer, além da falta de transparência nas decisões automatizadas. "
             }
         ]
     },
